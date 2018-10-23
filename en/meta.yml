@@ -1,11 +1,7 @@
-title: generic-scratch3-saving
+title: Saving a Scratch project
 hero_image: images/banner.png
-description: generic-scratch3-saving description
-version: 4
+description: Saving a Scratch project
 listed: false
-copyedit: false
-last_tested: "2018-10-23"
+copyedit: true
 steps:
-  - title: Introduction
-  - title: What you will need
-  - title: Step title
+  - title: Save your project
