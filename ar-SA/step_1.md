@@ -2,8 +2,8 @@
 
 ![scratch project name textbox](images/name.png)
 
-+ You can click **File** and then **Save now** to save your project.
++ يمكنك الضغط على **ملف** ثم **حفظ الأن** لحفظ مشروعك.
 
-![screenshot](images/save.png)
+![لقطة شاشة](images/save.png)
 
-**Note:** if you're using Scratch online but don't have a Scratch account, you can save a copy of your project by clicking **Download to your computer** instead.
+**ملاحظة:** إذا كنت تستخدم برنامج Scratch عن طريق الانترنت ولا تملك حسابا فيه، يمكنك حفظ نسخة من مشروعك عن طريق النقر على **تنزيل الى جهازك**.
