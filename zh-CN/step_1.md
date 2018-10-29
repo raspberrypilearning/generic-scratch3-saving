@@ -2,8 +2,8 @@
 
 ![scratch project name textbox](images/name.png)
 
-+ You can click **File** and then **Save now** to save your project.
++ 接着你可以点击**文件**然后点击**保存项目**来保存你的项目。
 
-![screenshot](images/save.png)
+![截屏](images/save.png)
 
-**Note:** if you're using Scratch online but don't have a Scratch account, you can save a copy of your project by clicking **Download to your computer** instead.
+**提示：**如果你使用的是在线Scratch但没有Scratch账号，你可以点击**下载到您的计算机**将项目备份保存到本地。
