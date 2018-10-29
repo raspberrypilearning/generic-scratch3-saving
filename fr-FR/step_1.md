@@ -2,8 +2,8 @@
 
 ![scratch project name textbox](images/name.png)
 
-+ You can click **File** and then **Save now** to save your project.
++ Tu peux cliquer sur **Fichier** puis **Sauvegarder maintenant** pour enregistrer ton projet.
 
 ![screenshot](images/save.png)
 
-**Note:** if you're using Scratch online but don't have a Scratch account, you can save a copy of your project by clicking **Download to your computer** instead.
+**Note:** Si tu utilise Scratch en ligne mais que tu n'as pas de compte Scratch, tu peux sauvegarder une copie de ton projet en cliquant sur **Télécharger dans votre ordinateur**.
