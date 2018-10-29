@@ -2,8 +2,8 @@
 
 ![scratch project name textbox](images/name.png)
 
-+ You can click **File** and then **Save now** to save your project.
++ A projekt mentéséhez kattints a **Fájl** menüre, majd a **Mentés** menüpontra.
 
-![screenshot](images/save.png)
+![képernyőkép](images/save.png)
 
-**Note:** if you're using Scratch online but don't have a Scratch account, you can save a copy of your project by clicking **Download to your computer** instead.
+**Megjegyzés:** ha online módban használod a Scratchet, de nincs Scratch fiókod, letöltheted a projektedet a **Letöltés saját gépre** menüponttal.
