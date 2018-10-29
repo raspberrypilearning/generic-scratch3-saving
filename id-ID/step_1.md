@@ -2,8 +2,8 @@
 
 ![scratch project name textbox](images/name.png)
 
-+ You can click **File** and then **Save now** to save your project.
++ Kamu bisa klik **Berkas** dan kemudian **Simpan Sekarang** untuk menyimpan proyek Kamu.
 
 ![screenshot](images/save.png)
 
-**Note:** if you're using Scratch online but don't have a Scratch account, you can save a copy of your project by clicking **Download to your computer** instead.
+**Catatan:** jika Kamu menggunakan Scratch secara daring namun tidak memiliki akun Scratch, Kamu dapat menyimpan salinan proyek Kamu dengan mengklik **Unduh ke komputermu**.
