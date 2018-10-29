@@ -2,8 +2,8 @@
 
 ![scratch project name textbox](images/name.png)
 
-+ You can click **File** and then **Save now** to save your project.
++ شما می توانید برای ذخیره‌سازی پروژه‌ی خود، روی **فایل** و سپس **الان ذخیره کن** کلیک کنید.
 
 ![screenshot](images/save.png)
 
-**Note:** if you're using Scratch online but don't have a Scratch account, you can save a copy of your project by clicking **Download to your computer** instead.
+**توجه:** اگر شما از نسخه‌ی آنلاین اسکرچ استفاده می‌کنید، ولی حساب کاربری اسکرچ ندارید، می‌توانید یک کپی از پروژه خود را با کلیک روی **روی کامپیوتر خودت دانلود کن**بر روی رایانه‌ی خود ذخیره کنید.
