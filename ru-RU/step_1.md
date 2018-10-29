@@ -2,8 +2,8 @@
 
 ![scratch project name textbox](images/name.png)
 
-+ You can click **File** and then **Save now** to save your project.
++ В версии редактора на сайте ты можешь нажать на меню **Файл**, а затем **Сохранить сейчас** и проект сохранится.
 
 ![screenshot](images/save.png)
 
-**Note:** if you're using Scratch online but don't have a Scratch account, you can save a copy of your project by clicking **Download to your computer** instead.
+**Примечание:** если ты используешь онлайн-редактор Scratch (который на сайте), но у тебя нет учетной записи Скретч, то ты можешь сохранить копию своего проекта, щелкнув по пункту меню **Скачать на свой компьютер**.
