@@ -2,8 +2,8 @@
 
 ![scratch project name textbox](images/name.png)
 
-+ You can click **File** and then **Save now** to save your project.
++ Možeš kliknuti na **Datoteka**, a zatim na **Spremi** za spremanje svog projekta.
 
 ![screenshot](images/save.png)
 
-**Note:** if you're using Scratch online but don't have a Scratch account, you can save a copy of your project by clicking **Download to your computer** instead.
+**Napomena:** ako koristiš Scratch online, ali nemaš korisnički račun, možeš spremiti kopiju svog projekta klikom na **Preuzmi na računalo**.
