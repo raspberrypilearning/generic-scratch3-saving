@@ -2,8 +2,8 @@
 
 ![scratch project name textbox](images/name.png)
 
-+ You can click **File** and then **Save now** to save your project.
++ Puteți face clic pe **Fișier**, iar apoi pe **Salvează acum** pentru a salva proiectul.
 
-![screenshot](images/save.png)
+![captură de ecran](images/save.png)
 
-**Note:** if you're using Scratch online but don't have a Scratch account, you can save a copy of your project by clicking **Download to your computer** instead.
+**Notă:** dacă utilizați Scratch online, dar nu aveți un cont Scratch, puteți doar să salvați o copie a proiectului făcând clic pe **Descarcă pe calculatorul tău**.
