@@ -2,8 +2,8 @@
 
 ![scratch project name textbox](images/name.png)
 
-+ You can click **File** and then **Save now** to save your project.
++ **ファイル** をクリックし、 **直ちに保存（ほぞん）** をクリックしてプロジェクトを保存することができます。
 
-![screenshot](images/save.png)
+![スクリーンショット](images/save.png)
 
-**Note:** if you're using Scratch online but don't have a Scratch account, you can save a copy of your project by clicking **Download to your computer** instead.
+**注：** Scratchのオンライン版をアカウント無しで使用している場合、 **手元のコンピュータにダウンロード** をクリックしてプロジェクトのコピーを保存できます。
