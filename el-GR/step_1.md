@@ -1,6 +1,6 @@
-+ Give your program a name by typing into the text box at the top.
++ Δώσε στο πρόγραμμα σου ένα όνομα πληκτρολογώντας το στο πλαίσιο κειμένου στην πάνω πλευρά.
 
-![scratch project name textbox](images/name.png)
+![πλαίσιο κειμένου για το όνομα του έργου Scratch](images/name.png)
 
 + Μπορείς να κάνεις κλικ στο **Αρχείο** και, στη συνέχεια, **Αποθήκευση τώρα** για να αποθηκεύσεις το έργο σου.
 
