@@ -1,9 +1,9 @@
-+ Give your program a name by typing into the text box at the top.
++ Üstteki metin kutusuna yazarak programınıza bir isim verin.
 
-![scratch project name textbox](images/name.png)
+![scratch proje adı metin kutusu](images/name-annotated.png)
 
-+ You can click **File** and then **Save now** to save your project.
++ Projenizi kaydetmek için **Dosya** kısmından **Şimdi kaydet** seçeneğini tıklatabilirsiniz.
 
-![screenshot](images/save.png)
+![ekran görüntüsü](images/save.png)
 
-**Note:** if you're using Scratch online but don't have a Scratch account, you can save a copy of your project by clicking **Download to your computer** instead.
+**Note:** if you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
