@@ -1,9 +1,9 @@
-+ Give your program a name by typing into the text box at the top.
++ 在页面上方的文本框中输入你想给你的程序起的名字。
 
-![scratch project name textbox](images/name.png)
+![Scratch项目名称文本框](images/name-annotated.png)
 
 + 接着你可以点击**文件**然后点击**保存项目**来保存你的项目。
 
 ![截屏](images/save.png)
 
-**提示：**如果你使用的是在线Scratch但没有Scratch账号，你可以点击**下载到您的计算机**将项目备份保存到本地。
+**Note:** if you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
