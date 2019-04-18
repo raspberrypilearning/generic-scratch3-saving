@@ -1,9 +1,9 @@
-+ Give your program a name by typing into the text box at the top.
++ Giv dit program et navn ved at skrive det ind i tekstboksen øverst.
 
-![scratch project name textbox](images/name.png)
+![scratch project name textbox](images/name-annotated.png)
 
 + Du kan klikke på **Fil** og derefter **Gem nu** for at gemme dit projekt.
 
 ![skærmbillede](images/save.png)
 
-**Bemærk:** Hvis du bruger Scratch online, men ikke har en Scratch-konto, kan du gemme en kopi af dit projekt ved at klikke på **Download til din computer** i stedet for.
+**Note:** if you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
