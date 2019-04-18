@@ -1,9 +1,9 @@
-+ Give your program a name by typing into the text box at the top.
++ أعطي مشروعك إسمً بكتابة الاسم داخل مربع النص في الأعلى.
 
-![scratch project name textbox](images/name.png)
+![مربع النص لمشروع scratch](images/name-annotated.png)
 
 + يمكنك الضغط على **ملف** ثم **حفظ الأن** لحفظ مشروعك.
 
 ![لقطة شاشة](images/save.png)
 
-**ملاحظة:** إذا كنت تستخدم برنامج Scratch عن طريق الانترنت ولا تملك حسابا فيه، يمكنك حفظ نسخة من مشروعك عن طريق النقر على **تنزيل الى جهازك**.
+**Note:** if you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
