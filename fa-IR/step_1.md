@@ -1,9 +1,9 @@
-+ Give your program a name by typing into the text box at the top.
++ با نوشتن در جعبه‌ی متن واقع در بالا، به برنامه‌ی خود یک نام اختصاص دهید.
 
-![scratch project name textbox](images/name.png)
+![جعبه متن نام پروژه‌ی اسکرچ](images/name-annotated.png)
 
 + شما می توانید برای ذخیره‌سازی پروژه‌ی خود، روی **فایل** و سپس **الان ذخیره کن** کلیک کنید.
 
-![screenshot](images/save.png)
+![عکس صفحه](images/save.png)
 
-**توجه:** اگر شما از نسخه‌ی آنلاین اسکرچ استفاده می‌کنید، ولی حساب کاربری اسکرچ ندارید، می‌توانید یک کپی از پروژه خود را با کلیک روی **روی کامپیوتر خودت دانلود کن**بر روی رایانه‌ی خود ذخیره کنید.
+**Note:** if you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
