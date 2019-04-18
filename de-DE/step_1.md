@@ -1,9 +1,9 @@
-+ Give your program a name by typing into the text box at the top.
++ Gebe deinem Projekt einen Namen, indem du ihn in das Textfeld oben eingibst.
 
-![scratch project name textbox](images/name.png)
+![Textbox, um deinem Scratch Projekt einen Namen zu geben](images/name-annotated.png)
 
 + Um dein Projekt zu speichern, klickst du auf **Datei** und dann auf **Jetzt speichern**.
 
 ![screenshot](images/save.png)
 
-**Hinweis:** Wenn du Scratch online verwendest, aber kein Scratch-Konto hast, kannst du eine Kopie deines Projekts speichern indem du statt dessen auf **Herunterladen auf deinen Computer** klickst.
+**Note:** if you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
