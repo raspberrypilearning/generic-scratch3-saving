@@ -1,8 +1,8 @@
-+ Give your program a name by typing into the text box at the top.
++ Daj svom programu naziv tako što ćeš ga upisati u tekstualni okvir na vrhu stranice.
 
 ![scratch project name textbox](images/name-annotated.png)
 
-+ Možeš kliknuti na **Datoteka**, a zatim na **Spremi** za spremanje svog projekta.
++ Možeš kliknuti na **Datoteka**, a zatim na **Spremi sada** za spremanje svog projekta.
 
 ![screenshot](images/save.png)
 
