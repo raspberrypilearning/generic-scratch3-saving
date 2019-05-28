@@ -1,9 +1,9 @@
-+ Give your program a name by typing into the text box at the top.
++ Rho enw i dy brosiect gan deipio un i’r blwch testun ar y top.
 
-![scratch project name textbox](images/name-annotated.png)
+![blwch testun end prosiect scratch](images/name-annotated.png)
 
-+ You can click **File** and then **Save now** to save your project.
++ Gelli di glicio **Ffeil** ac yna **Cadw nawr** i gadw dy brosiect.
 
-![screenshot](images/save.png)
+![sgrinlun](images/save.png)
 
-**Note:** if you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+**Nodyn:** Os nad wyt ti arlein neu os nad oes gen ti gyfrif Scratch, mae modd arbed dy brosiect trwy glicio **Llwytho i’r cyfrifiadur** yn lle.
