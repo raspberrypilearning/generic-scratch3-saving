@@ -6,4 +6,4 @@
 
 ![screenshot](images/save.png)
 
-**Note:** if you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+**Opmerking:** als je niet online bent of geen Scratch account hebt, kun je in plaats daarvan een kopie van jouw project opslaan op je eigen computer door op **Opslaan op je computer** te klikken.
