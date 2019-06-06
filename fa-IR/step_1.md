@@ -6,4 +6,4 @@
 
 ![عکس صفحه](images/save.png)
 
-**Note:** if you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+**توجه:** اگر شما آنلاین نیستید یا حساب کاربری اسکرچ ندارید، می توانید یک نسخه از پروژه ی خود را با کلیک بر روی **Save to your computer** ذخیره کنید.
