@@ -6,4 +6,4 @@
 
 ![zrzut ekranu](images/save.png)
 
-**Note:** if you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+**Uwaga:**jeśli nie korzystasz z wersji online lub nie masz konta Scratcha, możesz zapisać kopię projektu, klikając zamiast tego **Zapisz na swoim komputerze**.
