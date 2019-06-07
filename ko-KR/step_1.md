@@ -6,4 +6,4 @@
 
 ![screenshot](images/save.png)
 
-**Note:** if you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+**참고:**온라인이 아닌 경우나 스크래치 계정이없는 경우에 **내 컴퓨터에 프로젝트 다운로드하기**를 클릭하여 프로젝트 사본을 저장할 수 있습니다.
