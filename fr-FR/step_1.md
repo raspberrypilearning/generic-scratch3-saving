@@ -2,7 +2,7 @@
 
 ![scratch project name textbox](images/name-annotated.png)
 
-+ Tu peux cliquer sur **Fichier** puis **Sauvegarder maintenant** pour enregistrer ton projet.
++ You can click **File** and then **Save now** to save your project.
 
 ![screenshot](images/save.png)
 
