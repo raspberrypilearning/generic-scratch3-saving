@@ -2,7 +2,7 @@
 
 ![scratch proje adı metin kutusu](images/name-annotated.png)
 
-+ Projenizi kaydetmek için **Dosya** kısmından **Şimdi kaydet** seçeneğini tıklatabilirsiniz.
++ **Dosya** menüsünden **Şimdi kaydet** seçeneğine tıklayarak projenizi kaydedebilirsiniz.
 
 ![ekran görüntüsü](images/save.png)
 
