@@ -2,7 +2,7 @@
 
 ![denumirea proiectului scratch în căsuța text](images/name-annotated.png)
 
-+ Poți face clic pe **Fișier**, iar apoi pe **Salvează acum** pentru a-ți salva proiectul.
++ You can click **File** and then **Save now** to save your project.
 
 ![captură de ecran](images/save.png)
 
