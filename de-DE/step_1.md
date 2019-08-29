@@ -4,6 +4,6 @@
 
 + Um dein Projekt zu speichern, klickst du auf **Datei** und dann auf **Jetzt speichern**.
 
-![screenshot](images/save.png)
+![Screenshot](images/save.png)
 
-**Note:** if you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+**Hinweis:** Wenn du nicht online bist oder kein Scratch-Konto hast, kannst du eine Kopie deines Projekts speichern, indem du stattdessen auf **Auf deinem Computer speichern** klickst.
