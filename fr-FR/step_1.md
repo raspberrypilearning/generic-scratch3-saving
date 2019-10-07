@@ -6,4 +6,4 @@
 
 ![capture d'écran](images/save.png)
 
-**Note:** si tu n’es pas en ligne ou tu n'as pas de compte Scratch, Tu peux enregistrer une copie de ton projet en cliquant sur **Sauvegarder sur votre ordinateur**.
+**Note:** si tu n’es pas en ligne ou tu n'as pas de compte Scratch, tu peux enregistrer une copie de ton projet en cliquant sur **Sauvegarder sur votre ordinateur**.
