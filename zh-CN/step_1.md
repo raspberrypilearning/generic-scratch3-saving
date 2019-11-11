@@ -4,6 +4,6 @@
 
 + 接着你可以点击**文件**然后点击**保存项目**来保存你的项目。
 
-![截屏](images/save.png)
+![截图](images/save.png)
 
-**Note:** if you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+**注意：** 如果您没有连接网络或没有Scratch帐户，您可以点击**保存到计算机**保存您的项目副本。
