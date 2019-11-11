@@ -1,4 +1,4 @@
-+ Dale un nombre a tu programa escribiéndolo en el cuadro de texto en la esquina superior.
++ Dale un nombre a tu programa escribiéndolo en el cuadro de texto en la parte superior.
 
 ![cuadro de texto nombre proyecto scratch](images/name-annotated.png)
 
@@ -6,4 +6,4 @@
 
 ![captura de pantalla](images/save.png)
 
-**Note:** if you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+**Nota:** Si no tienes Internet o no tienes cuenta de Scratch, puedes guardar una copia de tu proyecto haciendo clic en **Guardar en tu ordenador**.
