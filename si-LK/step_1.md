@@ -1,9 +1,9 @@
-+ Give your program a name by typing into the text box at the top.
++ ඉහළින් ඇති පෙළ කොටුවට(text box එකට) නමක් ටයිප් කිරීමෙන් ඔබේ වැඩසටහනට නමක් ලබාදෙන්න.
 
-![scratch project name textbox](images/name-annotated.png)
+![Scratch ව්‍යාපෘති නාම පෙළ කොටුව(name textbox)](images/name-annotated.png)
 
-+ You can click **File** and then **Save now** to save your project.
++ ඔබට ** ගොනුව(File) **ක්ලික් කර ඉන්පසු ** දැන් සුරකින්න(Save now) ** ක්ලික් කර ඔබේ ව්‍යාපෘතිය සුරැකීමට පුළුවන.
 
-![screenshot](images/save.png)
+![තිර රුව(screenshot)](images/save.png)
 
-**Note:** if you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+** සටහන: ** ඔබ අන්තර්ජාලයට සබැඳිව නොමැති නම් හෝ Scratch ගිණුමක් නොමැති නම්, ඒ වෙනුවට** ඔබේ පරිගණකයට සුරකින්න(Save to your computer) ** ක්ලික් කිරීමෙන් ඔබේ ව්‍යාපෘතියේ පිටපතක් සුරැකිය හැක.
