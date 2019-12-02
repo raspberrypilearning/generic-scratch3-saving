@@ -1,9 +1,9 @@
-+ Give your program a name by typing into the text box at the top.
++ Придумай своей программе имя и введи его в текстовое поле вверху.
 
-![scratch project name textbox](images/name-annotated.png)
+![текстовое поле для ввода имени проекта Scratch](images/name-annotated.png)
 
 + В версии редактора на сайте ты можешь нажать на меню **Файл**, а затем **Сохранить сейчас** и проект сохранится.
 
 ![screenshot](images/save.png)
 
-**Note:** if you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+**Примечание:** если ты не онлайн или у тебя нет аккаунта Scratch, ты можешь сохранить копию твоего проекта, кликнув **Сохранить на свой компьютер**.
