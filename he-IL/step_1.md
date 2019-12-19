@@ -1,9 +1,9 @@
-+ Give your program a name by typing into the text box at the top.
++ תנו לתוכנית שלכם שם על ידי הקלדה בתיבת הטקסט למעלה.
 
-![scratch project name textbox](images/name-annotated.png)
+![תיבת טקסט של שם פרויקט הסקראץ'](images/name-annotated.png)
 
-+ You can click **File** and then **Save now** to save your project.
++ אתם יכולים ללחוץ על **קובץ** ואז **שמור עכשיו** כדי לשמור את הפרויקט שלכם.
 
-![screenshot](images/save.png)
+![צילום מסך](images/save.png)
 
-**Note:** if you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+**הערה:** אם אינכם מחוברים לאינטרנט או שאין לכם חשבון סקראץ׳, אתם יכולים לשמור עותק של הפרויקט שלכם על ידי לחיצה על **שמור למחשב שלך** במקום זאת.
