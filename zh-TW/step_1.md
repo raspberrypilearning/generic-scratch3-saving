@@ -1,9 +1,9 @@
-+ Give your program a name by typing into the text box at the top.
++ 在編輯器最上方找到文字方塊，給專案一個名稱。
 
-![scratch project name textbox](images/name-annotated.png)
+![Scratch 專案名稱文字方塊](images/name-annotated.png)
 
-+ You can click **File** and then **Save now** to save your project.
++ 你可以點擊**檔案**然後從選單中使用**儲存**功能。
 
-![screenshot](images/save.png)
+![截圖](images/save.png)
 
-**Note:** if you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+**注意：**如果你使用離線編輯器，或是你在線上卻沒有 Scratch 帳戶，你可以把檔案**下載到你的電腦**。
