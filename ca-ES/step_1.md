@@ -1,9 +1,9 @@
-+ Give your program a name by typing into the text box at the top.
++ Posa un nom al teu programa escrivint en el quadre de text de la part superior.
 
-![scratch project name textbox](images/name-annotated.png)
+![quadre de text del nom del projecte scratch](images/name-annotated.png)
 
-+ You can click **File** and then **Save now** to save your project.
++ Fes clic a **Fitxer** i **Desa ara** per guardar el projecte.
 
-![screenshot](images/save.png)
+![captura de pantalla](images/save.png)
 
-**Note:** if you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+**Nota:** si no estàs en línia o no tens un compte de Scratch, pots desar una còpia del projecte fent clic a **Desa al teu ordinador**.
