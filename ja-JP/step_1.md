@@ -1,9 +1,9 @@
-+ Give your program a name by typing into the text box at the top.
++ 上にあるテキストボックスに入力して、プログラムに名前をつけます。
 
-![scratch project name textbox](images/name-annotated.png)
+![スクラッチプロジェクト名　テキストボックス](images/name-annotated.png)
 
 + **ファイル** をクリックし、 **直ちに保存（ほぞん）** をクリックしてプロジェクトを保存することができます。
 
 ![スクリーンショット](images/save.png)
 
-**Note:** if you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+**注：** Scratch (スクラッチ) をオフラインまたはオンライン版をアカウント無しで使用している場合、 **コンピューターに保存する** をクリックしてプロジェクトのコピーを保存できます。
