@@ -2,7 +2,7 @@
 
 ![Scratch projektnamn textruta](images/name-annotated.png)
 
-+ You can click **File** and then **Save now** to save your project.
++ Du kan klicka på **Arkiv** och sedan **Spara nu** att spara ditt projekt.
 
 ![skärmdump](images/save.png)
 
