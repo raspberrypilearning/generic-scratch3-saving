@@ -1,6 +1,6 @@
-+ Give your program a name by typing into the text box at the top.
++ Ge ditt program ett namn genom att skriva in i textrutan längst upp.
 
-![scratch project name textbox](images/name-annotated.png)
+![Scratch projektnamn textruta](images/name-annotated.png)
 
 + You can click **File** and then **Save now** to save your project.
 
