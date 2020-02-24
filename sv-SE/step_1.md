@@ -4,6 +4,6 @@
 
 + You can click **File** and then **Save now** to save your project.
 
-![screenshot](images/save.png)
+![skärmdump](images/save.png)
 
-**Note:** if you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+** Obs! ** om du inte är online eller inte har ett Scratch-konto kan du spara en kopia av ditt projekt genom att klicka på ** Spara till din dator ** istället.
