@@ -1,9 +1,9 @@
-+ Give your program a name by typing into the text box at the top.
++ Bigyan ang iyong programa ng isang pangalan sa pamamagitan ng pag-type sa kahon ng teksto sa taas.
 
 ![scratch project name textbox](images/name-annotated.png)
 
-+ You can click **File** and then **Save now** to save your project.
++ Maaari mong i-click ang **File** at pagkatapos ay **save ngayon** upang i-save ang iyong proyekto.
 
 ![screenshot](images/save.png)
 
-**Note:** if you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+**Note:** kung hindi ka online o wala kang Scratch account, maaari mong mai-save ang isang kopya nang iyong proyekto sa pamamagitan ng pag-click sa **Save sa iyong computer**.
