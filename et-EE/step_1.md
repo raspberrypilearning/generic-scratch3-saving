@@ -1,9 +1,9 @@
-+ Anna oma programmile nimi, trükkides see ülaosas olevasse tekstikasti.
+First, to give your program a name, type the name of your program in the project name box at the top of the screen:
 
-![scratchi projekti nimi tekstiboks](images/name-annotated.png)
+![The project name box highlighted.](images/name-annotated.png)
 
-+ Võid klõpsata **Fail** ja seejärel **Salvesta nüüd** oma projekti salvestamiseks.
+Then, to save your project, click on **File**, and then on **Save now**:
 
-![kuvatõmmis](images/save.png)
+![Selecting 'Save now' in the 'File' menu.](images/save.png)
 
-**Märkus:**kui sa pole võrgu kaudu kättesaadav või ei oma Scratchi kontot, saad salvestada oma projekti koopia klõpsates hoopis **Salvesta oma arvutisse**.
+**Note:** If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
