@@ -1,9 +1,9 @@
-+ மேலே உள்ள உரை பெட்டியில் (text box) தட்டச்சு செய்வதன் மூலம் உங்கள் நிரலுக்கு ஒரு பெயரைக் கொடுங்கள்.
+First, to give your program a name, type the name of your program in the project name box at the top of the screen:
 
-![scratch திட்டத்தின் பெயர் உரை பெட்டி](images/name-annotated.png)
+![The project name box highlighted.](images/name-annotated.png)
 
-+ நீங்கள் உங்கள் திட்டத்தை சேமிக்க, முதலில் **File** -ஐ கிளிக் செய்து, பிறகு **Save now** -ஐ கிளிக் செய்யலாம்.
+Then, to save your project, click on **File**, and then on **Save now**:
 
-![திரைப்பிடிப்பு](images/save.png)
+![Selecting 'Save now' in the 'File' menu.](images/save.png)
 
-**குறிப்பு:** நீங்கள் ஆன்லைனில்(நிகழ்நிலையில்) இல்லையென்றால் அல்லது உங்களிடம் Scratch(ஸ்க்ராட்ச்) கணக்கு இல்லையென்றால், அதற்கு பதிலாக **Save to your computer** என்பதைக் கிளிக் செய்வதன் மூலம் உங்கள் திட்டத்தின் நகலை உங்கள் கணினியில் சேமிக்கலாம்.
+**Note:** If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
