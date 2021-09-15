@@ -1,9 +1,9 @@
-+ Adj nevet a programodnak a felső soron található szövegdobozban.
+First, to give your program a name, type the name of your program in the project name box at the top of the screen:
 
-![scratch projektnév szövegdoboz](images/name-annotated.png)
+![The project name box highlighted.](images/name-annotated.png)
 
-+ A projekt mentéséhez kattints a **Fájl** menüre, majd a **Mentés** menüpontra.
+Then, to save your project, click on **File**, and then on **Save now**:
 
-![képernyőkép](images/save.png)
+![Selecting 'Save now' in the 'File' menu.](images/save.png)
 
-**Megjegyzés:** ha nem vagy online vagy nincs Scratch fiókod, letöltheted a projektedet a **Letöltés saját gépre** menüponttal.
+**Note:** If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
