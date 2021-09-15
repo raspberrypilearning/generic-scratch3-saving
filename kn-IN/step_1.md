@@ -1,9 +1,9 @@
-+ ಮೇಲ್ಭಾಗದಲ್ಲಿರುವ ಪಠ್ಯ ಪೆಟ್ಟಿಗೆಯಲ್ಲಿ ಟೈಪ್ ಮಾಡುವ ಮೂಲಕ ನಿಮ್ಮ ಪ್ರೋಗ್ರಾಂಗೆ(program) ಒಂದು ಹೆಸರನ್ನು ನೀಡಿ.
+First, to give your program a name, type the name of your program in the project name box at the top of the screen:
 
-![scratch ಪ್ರಾಜೆಕ್ಟ್ ನ ಹೆಸರಿರುವ ಪಠ್ಯಪೆಟ್ಟಿಗೆ](images/name-annotated.png)
+![The project name box highlighted.](images/name-annotated.png)
 
-+ ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್ ಅನ್ನು ಸೇವ್ ಮಾಡಲು ನೀವು ಈಗ **File** ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ ತದನಂತರ **Save now** ಮಾಡಿ.
+Then, to save your project, click on **File**, and then on **Save now**:
 
-![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/save.png)
+![Selecting 'Save now' in the 'File' menu.](images/save.png)
 
-**ಗಮನಿಸಿ:** ಒಂದು ವೇಳೆ ನೀವು ಆನ್‌ಲೈನ್‌ನಲ್ಲಿಲ್ಲದಿದ್ದರೆ ಅಥವಾ Scratch ಖಾತೆಯನ್ನು ಹೊಂದಿಲ್ಲದಿದ್ದರೆ, ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್‌ನಲ್ಲಿ **Save to your computer** ಕ್ಲಿಕ್ ಮಾಡುವ ಮೂಲಕ ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್ ಕಾಪಿಯನ್ನು ಸೇವ್ ಮಾಡಬಹುದು.
+**Note:** If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
