@@ -1,9 +1,9 @@
-+ शीर्षस्थानी मजकूर बॉक्समध्ये टाइप करुन आपल्या प्रोग्रामला नाव द्या.
+First, to give your program a name, type the name of your program in the project name box at the top of the screen:
 
-![scratch प्रकल्प नाव टेक्स्टबॉक्स](images/name-annotated.png)
+![The project name box highlighted.](images/name-annotated.png)
 
-+ **File**वर क्लिक करा, आणि नंतर आपला प्रकल्प जतन करण्यासाठी **Save now**वर क्लिक करा.
+Then, to save your project, click on **File**, and then on **Save now**:
 
-![screenshot](images/save.png)
+![Selecting 'Save now' in the 'File' menu.](images/save.png)
 
-** टीपः ** आपण ऑनलाइन नसल्यास किंवा Scratch खाते नसल्यास आपण आपल्या प्रकल्पाची एक प्रत **Save to your computer**वर क्लिक करुन जतन करू शकता.
+**Note:** If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
