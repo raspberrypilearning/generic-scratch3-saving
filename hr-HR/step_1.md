@@ -1,9 +1,9 @@
-+ Daj svom programu naziv tako što ćeš ga upisati u tekstualni okvir na vrhu stranice.
+First, to give your program a name, type the name of your program in the project name box at the top of the screen:
 
-![tekstualni okvir za ime scratch projekta](images/name-annotated.png)
+![The project name box highlighted.](images/name-annotated.png)
 
-+ Možeš kliknuti na **Datoteka**, a zatim na **Spremi sada** za spremanje svog projekta.
+Then, to save your project, click on **File**, and then on **Save now**:
 
-![snimka zaslona](images/save.png)
+![Selecting 'Save now' in the 'File' menu.](images/save.png)
 
-**Napomena:** ako koristiš Scratch bez intrenetske veze ili nemaš korisnički račun, možeš spremiti kopiju svog projekta klikom na **Spremi na računalo**.
+**Note:** If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
