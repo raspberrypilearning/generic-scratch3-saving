@@ -1,9 +1,9 @@
-+ ඉහළින් ඇති පෙළ කොටුවට(text box එකට) නමක් ටයිප් කිරීමෙන් ඔබේ වැඩසටහනට නමක් ලබාදෙන්න.
+First, to give your program a name, type the name of your program in the project name box at the top of the screen:
 
-![Scratch ව්‍යාපෘති නාම පෙළ කොටුව(name textbox)](images/name-annotated.png)
+![The project name box highlighted.](images/name-annotated.png)
 
-+ ඔබට ** ගොනුව(File) **ක්ලික් කර ඉන්පසු ** දැන් සුරකින්න(Save now) ** ක්ලික් කර ඔබේ ව්‍යාපෘතිය සුරැකීමට පුළුවන.
+Then, to save your project, click on **File**, and then on **Save now**:
 
-![තිර රුව(screenshot)](images/save.png)
+![Selecting 'Save now' in the 'File' menu.](images/save.png)
 
-** සටහන: ** ඔබ අන්තර්ජාලයට සබැඳිව නොමැති නම් හෝ Scratch ගිණුමක් නොමැති නම්, ඒ වෙනුවට** ඔබේ පරිගණකයට සුරකින්න(Save to your computer) ** ක්ලික් කිරීමෙන් ඔබේ ව්‍යාපෘතියේ පිටපතක් සුරැකිය හැක.
+**Note:** If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
