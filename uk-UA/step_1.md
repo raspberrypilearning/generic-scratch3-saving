@@ -1,9 +1,9 @@
-+ Задай назву свого проєкту, набравши її в текстовому полі вгорі.
+First, to give your program a name, type the name of your program in the project name box at the top of the screen:
 
-![текстове поле назви проєкту у Скретч](images/name-annotated.png)
+![The project name box highlighted.](images/name-annotated.png)
 
-+ Щоб зберегти свій проєкт, тобі треба натиснути **Файл**, а потім **Зберегти негайно**.
+Then, to save your project, click on **File**, and then on **Save now**:
 
-![знімок екрана](images/save.png)
+![Selecting 'Save now' in the 'File' menu.](images/save.png)
 
-**Примітка:** якщо ти не підключений(-на) до мережі або в тебе немає облікового запису в Скретч, тоді ти можеш зберегти копію свого проєкту, натиснувши **Вивантажити на ваш комп'ютер**.
+**Note:** If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
