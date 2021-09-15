@@ -1,9 +1,9 @@
-+ Δώσε στο πρόγραμμα σου ένα όνομα πληκτρολογώντας το στο πλαίσιο κειμένου στην πάνω πλευρά.
+First, to give your program a name, type the name of your program in the project name box at the top of the screen:
 
-![πλαίσιο κειμένου για το όνομα του έργου Scratch](images/name-annotated.png)
+![The project name box highlighted.](images/name-annotated.png)
 
-+ Μπορείς να κάνεις κλικ στο **Αρχείο** και, στη συνέχεια, **Αποθήκευση τώρα** για να αποθηκεύσεις το έργο σου.
+Then, to save your project, click on **File**, and then on **Save now**:
 
-![screenshot](images/save.png)
+![Selecting 'Save now' in the 'File' menu.](images/save.png)
 
-**Σημείωση:** αν δεν έχεις λογαριασμό Scratch, μπορείς εναλλακτικά να αποθηκεύσεις ένα αντίγραφο του έργου σου κάνοντας κλικ στο **Κατέβασμα έργου στον υπολογιστή**.
+**Note:** If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
