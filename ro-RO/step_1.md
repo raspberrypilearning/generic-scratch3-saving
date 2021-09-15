@@ -1,9 +1,9 @@
-+ Dă un nume programului tău prin introducerea denumirii în caseta text de sus.
+First, to give your program a name, type the name of your program in the project name box at the top of the screen:
 
-![denumirea proiectului scratch în caseta text](images/name-annotated.png)
+![The project name box highlighted.](images/name-annotated.png)
 
-+ Poți da click pe **Fișier**, iar apoi pe **Salvează acum** pentru a-ți salva proiectul.
+Then, to save your project, click on **File**, and then on **Save now**:
 
-![captură de ecran](images/save.png)
+![Selecting 'Save now' in the 'File' menu.](images/save.png)
 
-**Notă:** dacă nu ești online sau nu ai un cont Scratch, poți să salvezi o copie a proiectului tău dând click în schimb pe **Salvează pe calculatorul tău**.
+**Note:** If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
