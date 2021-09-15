@@ -1,9 +1,9 @@
-+ 왼쪽 위 모서리에 있는 텍스트 상자에 원하는 프로젝트 이름을 입력해주세요.
+First, to give your program a name, type the name of your program in the project name box at the top of the screen:
 
-![스크래치 프로젝트 이름 텍스트 상자](images/name-annotated.png)
+![The project name box highlighted.](images/name-annotated.png)
 
-+ **파일** 을 클릭 한 다음 **지금 저장**을 클릭하여 프로젝트를 저장할 수 있습니다.
+Then, to save your project, click on **File**, and then on **Save now**:
 
-![screenshot](images/save.png)
+![Selecting 'Save now' in the 'File' menu.](images/save.png)
 
-**참고:**온라인이 아닌 경우나 스크래치 계정이없는 경우에 **내 컴퓨터에 프로젝트 다운로드하기**를 클릭하여 프로젝트 사본을 저장할 수 있습니다.
+**Note:** If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
