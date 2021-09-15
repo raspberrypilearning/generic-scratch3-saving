@@ -1,9 +1,9 @@
-+ Názov svojho programu zadaj do textového poľa v hornej časti aplikácie.
+First, to give your program a name, type the name of your program in the project name box at the top of the screen:
 
-![textové pole s názvom projektu](images/name-annotated.png)
+![The project name box highlighted.](images/name-annotated.png)
 
-+ Na uloženie projektu klikni na tlačidlo **Súbor** a potom na **Ulož**.
+Then, to save your project, click on **File**, and then on **Save now**:
 
-![snímka obrazovky](images/save.png)
+![Selecting 'Save now' in the 'File' menu.](images/save.png)
 
-**Poznámka:** ak nepoužívaš Scratch online a nemáš vytvorený Scratch účet, môžeš namiesto toho uložiť svoj projekt kliknutím na tlačidlo **Ulož do počítača**.
+**Note:** If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
