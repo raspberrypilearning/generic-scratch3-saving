@@ -1,6 +1,6 @@
-First, to give your program a name, type the name of your program in the project name box at the top of the screen:
+Primero, para darle un nombre a tu programa, escribe el nombre que prefieras en el cuadro de texto en la parte superior de la pantalla:
 
-![The project name box highlighted.](images/name-annotated.png)
+![El cuadro del nombre del proyecto resaltado.](images/name-annotated.png)
 
 Then, to save your project, click on **File**, and then on **Save now**:
 
