@@ -2,8 +2,8 @@ Primero, para darle un nombre a tu programa, escribe el nombre que prefieras en 
 
 ![El cuadro del nombre del proyecto resaltado.](images/name-annotated.png)
 
-Then, to save your project, click on **File**, and then on **Save now**:
+Luego, para guardar tu proyecto, haz clic en **Archivo**, y luego en **Guardar ahora**:
 
 ![Seleccionando 'Guardar ahora' en el menú 'Archivo'.](images/save.png)
 
-**Note:** If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
+**Nota:** Si no estás conectado a internet o no tienes una cuenta de Scratch, puedes hacer clic en **Guardar en tu computador** para guardar una copia de tu proyecto.
