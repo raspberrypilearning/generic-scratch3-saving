@@ -1,4 +1,4 @@
-First, to give your program a name, type the name of your program in the project name box at the top of the screen:
+ಮೊದಲಿಗೆ, ನಿಮ್ಮ ಪ್ರೋಗ್ರಾಂಗೆ ಹೆಸರನ್ನು ನೀಡಲು, ಪರದೆಯ ಮೇಲ್ಭಾಗದಲ್ಲಿರುವ ಪ್ರಾಜೆಕ್ಟ್ ನೇಮ್ ಬಾಕ್ಸ್‌ನಲ್ಲಿ ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್ ಹೆಸರನ್ನು ಟೈಪ್ ಮಾಡಿ:
 
 ![The project name box highlighted.](images/name-annotated.png)
 
