@@ -1,4 +1,4 @@
-First, to give your program a name, type the name of your program in the project name box at the top of the screen:
+Om je programma een naam te geven, typ je eerst de naam van jouw programma in het vak met de projectnaam bovenaan het scherm:
 
 ![The project name box highlighted.](images/name-annotated.png)
 
