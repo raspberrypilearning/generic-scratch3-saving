@@ -1,9 +1,9 @@
 Om je programma een naam te geven, typ je eerst de naam van jouw programma in het vak met de projectnaam bovenaan het scherm:
 
-![The project name box highlighted.](images/name-annotated.png)
+![Het vak met de projectnaam is gemarkeerd.](images/name-annotated.png)
 
-Then, to save your project, click on **File**, and then on **Save now**:
+Klik vervolgens voor het opslaan van je project, op **Bestand**, en vervolgens op **Nu opslaan**:
 
-![Selecting 'Save now' in the 'File' menu.](images/save.png)
+!['Nu opslaan' selecteren in het 'Bestand' menu.](images/save.png)
 
-**Note:** If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
+**Opmerking:** Als je niet online bent of je hebt geen Scratch-account klik op **Opslaan op je computer** om een kopie van je project op te slaan.
