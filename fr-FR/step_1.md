@@ -1,9 +1,9 @@
-+ Donne un nom à ton programme en tapant dans la zone de texte en haut.
+Tout d'abord, pour donner un nom à ton programme, tape le nom de ton programme dans la zone nom du projet en haut de l'écran :
 
-![zone de texte pour le nom de ton projet scratch](images/name-annotated.png)
+![La zone de nom du projet surlignée.](images/name-annotated.png)
 
-+ Tu peux cliquer sur **Fichier** puis **Enregistrer maintenant** pour enregistrer ton projet.
+Ensuite, pour enregistrer ton projet, clique sur **Fichier**, et sur **Enregistrer maintenant** :
 
-![capture d'écran](images/save.png)
+![Sélectionne « Enregistrer maintenant » dans le menu « Fichier ».](images/save.png)
 
-**Note:** si tu n’es pas en ligne ou tu n'as pas de compte Scratch, tu peux enregistrer une copie de ton projet en cliquant sur **Sauvegarder sur votre ordinateur**.
+**Remarque :** si tu n'es pas en ligne ou que tu n'as pas de compte Scratch, tu peux cliquer sur **Sauvegarder sur votre ordinateur** pour enregistrer une copie de ton projet.
