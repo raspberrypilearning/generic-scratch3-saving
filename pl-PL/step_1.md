@@ -1,9 +1,10 @@
-+ Wpisz nazwę programu w polu tekstowym na górze.
+Najpierw, aby nadać swojemu programowi nazwę, wpisz jego nazwę w polu nazwy projektu u góry ekranu:
 
-![pole tekstowe nazwy projektu scratch](images/name-annotated.png)
+![Podświetlone pole nazwy projektu.](images/name-annotated.png)
 
-+ Możesz kliknąć **Plik**, a następnie **Zapisz teraz**, aby zapisać swój projekt.
+Następnie, aby zapisać projekt, kliknij **Plik**, a następnie **Zapisz teraz**:
 
-![zrzut ekranu](images/save.png)
+![Wybranie opcji „Zapisz teraz” w menu „Plik”.](images/save.png)
 
-**Uwaga:** jeśli nie korzystasz z wersji online lub nie masz konta Scratcha, możesz zapisać kopię projektu, klikając zamiast tego **Zapisz na swoim komputerze**.
+**Uwaga:** Jeśli nie jesteś online lub nie masz konta Scratch, możesz kliknąć **Zapisz na swoim komputerze** aby zapisać kopię swojego projektu.
+
