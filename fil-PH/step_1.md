@@ -1,8 +1,8 @@
 First, to give your program a name, type the name of your program in the project name box at the top of the screen:
 
-![The project name box highlighted.](images/name-annotated.png)
+![screenshot](images/name-annotated.png)
 
-Then, to save your project, click on **File**, and then on **Save now**:
+Kung hindi ka online o wala kang Scratch account, maaari mong mai-save ang isang kopya nang iyong proyekto sa pamamagitan ng pag-click sa **Save to your computer**.
 
 ![Selecting 'Save now' in the 'File' menu.](images/save.png)
 
