@@ -1,8 +1,8 @@
 First, to give your program a name, type the name of your program in the project name box at the top of the screen:
 
-![The project name box highlighted.](images/name-annotated.png)
+![képernyőkép](images/name-annotated.png)
 
-Then, to save your project, click on **File**, and then on **Save now**:
+**Megjegyzés:** ha nem vagy online vagy nincs Scratch fiókod, letöltheted a projektedet a **Letöltés saját gépre** menüponttal.
 
 ![Selecting 'Save now' in the 'File' menu.](images/save.png)
 
