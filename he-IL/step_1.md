@@ -1,8 +1,8 @@
 First, to give your program a name, type the name of your program in the project name box at the top of the screen:
 
-![The project name box highlighted.](images/name-annotated.png)
+![צילום מסך](images/name-annotated.png)
 
-Then, to save your project, click on **File**, and then on **Save now**:
+**הערה:** אם אינכם מחוברים לאינטרנט או שאין לכם חשבון סקראץ׳, אתם יכולים לשמור עותק של הפרויקט שלכם על ידי לחיצה על **שמור למחשב שלך** במקום זאת.
 
 ![Selecting 'Save now' in the 'File' menu.](images/save.png)
 
