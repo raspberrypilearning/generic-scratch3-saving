@@ -1,8 +1,8 @@
 First, to give your program a name, type the name of your program in the project name box at the top of the screen:
 
-![The project name box highlighted.](images/name-annotated.png)
+![截圖](images/name-annotated.png)
 
-Then, to save your project, click on **File**, and then on **Save now**:
+**注意：**如果你使用離線編輯器，或是你在線上卻沒有 Scratch 帳戶，你可以把檔案**下載到你的電腦**。
 
 ![Selecting 'Save now' in the 'File' menu.](images/save.png)
 
