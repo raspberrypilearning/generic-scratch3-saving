@@ -1,8 +1,8 @@
 First, to give your program a name, type the name of your program in the project name box at the top of the screen:
 
-![The project name box highlighted.](images/name-annotated.png)
+![عکس صفحه](images/name-annotated.png)
 
-Then, to save your project, click on **File**, and then on **Save now**:
+**توجه:** اگر شما آنلاین نیستید یا حساب کاربری اسکرچ ندارید، می توانید یک نسخه از پروژه ی خود را با کلیک بر روی **Save to your computer** ذخیره کنید.
 
 ![Selecting 'Save now' in the 'File' menu.](images/save.png)
 
