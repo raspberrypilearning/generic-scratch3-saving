@@ -1,9 +1,9 @@
-+ Rho enw i dy brosiect gan deipio un i’r blwch testun ar y top.
+Yn gyntaf, i roi enw i dy raglen, teipia enw dy raglen ym mlwch enw'r prosiect ar frig y sgrin:
 
-![blwch testun end prosiect scratch](images/name-annotated.png)
+![Blwch enw'r prosiect wedi'i amlygu.](images/name-annotated.png)
 
-+ Gelli di glicio **Ffeil** ac yna **Cadw nawr** i gadw dy brosiect.
+Wedyn, i gadw dy brosiect, clicia ar **Ffeil**, ac yna ar **Cadw nawr**:
 
-![sgrinlun](images/save.png)
+![Dewis 'Cadw nawr' yn y ddewislen 'Ffeil'.](images/save.png)
 
-**Nodyn:** Os nad wyt ti arlein neu os nad oes gen ti gyfrif Scratch, mae modd arbed dy brosiect trwy glicio **Llwytho i’r cyfrifiadur** yn lle.
+**Nodyn:** Os nad wyt ti ar-lein neu os nad oes gen ti gyfrif Scratch, galli di glicio **Cadw i'ch cyfrifiadur** i gadw copi o dy brosiect.
