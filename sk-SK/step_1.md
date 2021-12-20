@@ -1,8 +1,8 @@
 First, to give your program a name, type the name of your program in the project name box at the top of the screen:
 
-![The project name box highlighted.](images/name-annotated.png)
+![snímka obrazovky](images/name-annotated.png)
 
-Then, to save your project, click on **File**, and then on **Save now**:
+**Poznámka:** ak nepoužívaš Scratch online a nemáš vytvorený Scratch účet, môžeš namiesto toho uložiť svoj projekt kliknutím na tlačidlo **Ulož do počítača**.
 
 ![Selecting 'Save now' in the 'File' menu.](images/save.png)
 
