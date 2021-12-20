@@ -1,8 +1,8 @@
 First, to give your program a name, type the name of your program in the project name box at the top of the screen:
 
-![The project name box highlighted.](images/name-annotated.png)
+![kuvatõmmis](images/name-annotated.png)
 
-Then, to save your project, click on **File**, and then on **Save now**:
+**Märkus:**kui sa pole võrgu kaudu kättesaadav või ei oma Scratchi kontot, saad salvestada oma projekti koopia klõpsates hoopis **Salvesta oma arvutisse**.
 
 ![Selecting 'Save now' in the 'File' menu.](images/save.png)
 
