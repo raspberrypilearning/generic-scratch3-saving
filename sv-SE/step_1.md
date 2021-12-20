@@ -1,8 +1,8 @@
 First, to give your program a name, type the name of your program in the project name box at the top of the screen:
 
-![The project name box highlighted.](images/name-annotated.png)
+![skärmdump](images/name-annotated.png)
 
-Then, to save your project, click on **File**, and then on **Save now**:
+**Obs!** om du inte är online eller inte har ett Scratch-konto kan du spara en kopia av ditt projekt genom att klicka på **Spara till din dator** istället.
 
 ![Selecting 'Save now' in the 'File' menu.](images/save.png)
 
