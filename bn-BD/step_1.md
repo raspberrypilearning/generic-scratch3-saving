@@ -1,8 +1,8 @@
 First, to give your program a name, type the name of your program in the project name box at the top of the screen:
 
-![The project name box highlighted.](images/name-annotated.png)
+![স্ক্রিনশট](images/name-annotated.png)
 
-Then, to save your project, click on **File**, and then on **Save now**:
+**দ্রষ্টব্য:** আপনি যদি স্ক্র্যাচ অনলাইন ভার্শন ব্যাবহার করে থাকেন এবং স্ক্র্যাচে অ্যাকাউন্ট না থাকে তাহলে আপনি **আপনার কম্পিউটার এ সেভ করুন** -এ ক্লিক করে আপনার প্রজেক্টটি সেভ করতে পারেন।.
 
 ![Selecting 'Save now' in the 'File' menu.](images/save.png)
 
