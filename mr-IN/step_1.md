@@ -1,8 +1,8 @@
 First, to give your program a name, type the name of your program in the project name box at the top of the screen:
 
-![The project name box highlighted.](images/name-annotated.png)
+![screenshot](images/name-annotated.png)
 
-Then, to save your project, click on **File**, and then on **Save now**:
+**टीपः** आपण ऑनलाइन नसल्यास किंवा Scratch खाते नसल्यास आपण आपल्या प्रकल्पाची एक प्रत **Save to your computer** वर क्लिक करुन जतन करू शकता.
 
 ![Selecting 'Save now' in the 'File' menu.](images/save.png)
 
