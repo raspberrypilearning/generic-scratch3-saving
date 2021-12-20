@@ -1,8 +1,8 @@
 First, to give your program a name, type the name of your program in the project name box at the top of the screen:
 
-![The project name box highlighted.](images/name-annotated.png)
+![знімок екрана](images/name-annotated.png)
 
-Then, to save your project, click on **File**, and then on **Save now**:
+**Примітка:** якщо ти не підключений(-на) до мережі або в тебе немає облікового запису в Скретч, тоді ти можеш зберегти копію свого проєкту, натиснувши **Вивантажити на ваш комп'ютер**.
 
 ![Selecting 'Save now' in the 'File' menu.](images/save.png)
 
