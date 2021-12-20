@@ -1,9 +1,9 @@
-First, to give your program a name, type the name of your program in the project name box at the top of the screen:
+Yn gyntaf, i roi enw i dy raglen, teipia enw dy raglen ym mlwch enw'r prosiect ar frig y sgrin:
 
-![The project name box highlighted.](images/name-annotated.png)
+![sgrinlun](images/name-annotated.png)
 
-Then, to save your project, click on **File**, and then on **Save now**:
+**Nodyn:** Os nad wyt ti arlein neu os nad oes gen ti gyfrif Scratch, mae modd arbed dy brosiect trwy glicio **Llwytho i’r cyfrifiadur** yn lle.
 
-![Selecting 'Save now' in the 'File' menu.](images/save.png)
+![Dewis 'Cadw nawr' yn y ddewislen 'Ffeil'.](images/save.png)
 
-**Note:** If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
+**Nodyn:** Os nad wyt ti ar-lein neu os nad oes gen ti gyfrif Scratch, galli di glicio **Cadw i'ch cyfrifiadur** i gadw copi o dy brosiect.
