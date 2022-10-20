@@ -1,9 +1,9 @@
-First, to give your program a name, type the name of your program in the project name box at the top of the screen:
+सबसे पहले, अपने प्रोग्राम को एक नाम देने के लिए, स्क्रीन के शीर्ष पर प्रोजेक्ट नाम डिब्बी में अपने प्रोग्राम का नाम टाइप करें:
 
-![screenshot](images/name-annotated.png)
+![प्रोजेक्ट नाम बॉक्स हाइलाइट किया गया।](images/name-annotated.png)
 
-**ध्यान दें:** यदि आप Scratch ऑनलाइन नहीं उपयोग कर रहे हैं या आपके पास Scratch खाता नहीं है, तो आप **Save to your computer** पर क्लिक करके अपने प्रोजेक्ट की प्रतिलिपि को सहेज सकते हैं।
+फिर, अपना प्रोजेक्ट सहेजने के लिए, **फ़ाइल** पर क्लिक करें, और फिर **अभी सहेजें**पर क्लिक करें:
 
-![Selecting 'Save now' in the 'File' menu.](images/save.png)
+!['फ़ाइल' मेनू में 'अभी सहेजें' का चयन करना।](images/save.png)
 
-**Note:** If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
+**नोट:** यदि आप ऑनलाइन नहीं हैं या आपके पास स्क्रैच खाता नहीं है, तो आप अपने प्रोजेक्ट की एक प्रति सहेजने के लिए **अपने कंप्यूटर में सहेजें** पर क्लिक कर सकते हैं।
