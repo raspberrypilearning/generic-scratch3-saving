@@ -1,6 +1,6 @@
 Da bi svom programu dao/la naziv, upiši naziv svog programa u okvir za naziv projekta na vrhu ekrana:
 
-![snimka zaslona](images/name-annotated.png)
+![Istaknut okvir za naziv projekta.](images/name-annotated.png)
 
 Zatim, da bi spremio/la svoj projekt, klikni na **Datoteka** i zatim na **Spremi sada**:
 
