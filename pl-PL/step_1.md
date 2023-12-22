@@ -7,4 +7,3 @@ Następnie, aby zapisać projekt, kliknij **Plik**, a następnie **Zapisz teraz*
 ![Wybranie opcji „Zapisz teraz” w menu „Plik”.](images/save.png)
 
 **Uwaga:** Jeśli nie jesteś online lub nie masz konta Scratch, możesz kliknąć **Zapisz na swoim komputerze** aby zapisać kopię swojego projektu.
-
